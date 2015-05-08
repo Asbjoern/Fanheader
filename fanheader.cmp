@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-06 BZR 5256)-product   date = Lørdag '14en' 14. Februar 2015 'kl.' 10.20.05
+
+BeginCmp
+TimeStamp = /54DE0862;
+Reference = P1;
+ValeurCmp = 12V;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDFAEE;
+Reference = P2;
+ValeurCmp = AUX-2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF137D;
+Reference = P3;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE28D2;
+Reference = Q1;
+ValeurCmp = FDN335N;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE2BA6;
+Reference = Q2;
+ValeurCmp = FDN335N;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE2D7F;
+Reference = Q3;
+ValeurCmp = FDN335N;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE2E79;
+Reference = Q4;
+ValeurCmp = FDN335N;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF1621;
+Reference = Q5;
+ValeurCmp = FDN335N;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDFECE;
+Reference = R1;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0244;
+Reference = R2;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE02E7;
+Reference = R3;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0363;
+Reference = R4;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDFF3C;
+Reference = R5;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE024A;
+Reference = R6;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE02ED;
+Reference = R7;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0369;
+Reference = R8;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF1609;
+Reference = R9;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF160F;
+Reference = R10;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+EndListe
